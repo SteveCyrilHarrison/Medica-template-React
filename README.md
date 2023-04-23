@@ -1,1 +1,1 @@
-# Medica-template-React
+# Open-Micc
